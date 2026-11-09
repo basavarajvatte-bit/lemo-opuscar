@@ -1,0 +1,22 @@
+Twinkle Star — credits for third-party material
+
+Text
+- "The Star" ("Twinkle, Twinkle, Little Star"), first verse, by Jane Taylor (1806). Public domain.
+
+Music
+- Original score written for this film. The closing music-box tune is the traditional melody
+  "Ah! vous dirai-je, maman" (18th-century French folk tune). Public domain.
+- All instruments are synthesized in code (Karplus–Strong nylon guitar and modal music box from
+  core/audio/pluck.py; bells, foley and ambience from numpy / core/audio/sfx.py). No samples used.
+
+Voice
+- Kokoro TTS (kokoro-onnx, model kokoro-v1.0), voice "af_heart". Apache License 2.0.
+  https://github.com/thewh1teagle/kokoro-onnx · https://huggingface.co/hexgrad/Kokoro-82M
+
+Fonts (SIL Open Font License 1.1; licence texts in fonts/)
+- Patrick Hand by Patrick Wagesreiter. https://github.com/google/fonts/tree/main/ofl/patrickhand
+- Gaegu by JIKJI SOFT. https://github.com/google/fonts/tree/main/ofl/gaegu
+
+Picture
+- Drawn entirely in code with the Crayon Picture Book engine (gl.js, crayon.js, rig.js) from the
+  Lemo-Opuscar style library (see the library's LICENSE).
