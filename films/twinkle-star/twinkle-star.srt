@@ -1,0 +1,14 @@
+1
+00:00:02,850 --> 00:00:07,900
+Twinkle, twinkle, little star,
+How I wonder what you are!
+
+2
+00:00:07,920 --> 00:00:13,339
+Up above the world so high,
+Like a diamond in the sky.
+
+3
+00:00:15,350 --> 00:00:20,637
+Twinkle, twinkle, little star,
+How I wonder what you are!

@@ -1,0 +1,8 @@
+[
+ {"id": "l1", "text": "Twinkle, twinkle, little star,", "voice": "af_heart", "speed": 0.8},
+ {"id": "l2", "text": "How I wonder what you are!", "voice": "af_heart", "speed": 0.82},
+ {"id": "l3", "text": "Up above the world so high,", "voice": "af_heart", "speed": 0.82},
+ {"id": "l4", "text": "Like a diamond in the sky.", "voice": "af_heart", "speed": 0.8},
+ {"id": "l5", "text": "Twinkle, twinkle, little star,", "voice": "af_heart", "speed": 0.8},
+ {"id": "l6", "text": "How I wonder what you are!", "voice": "af_heart", "speed": 0.8}
+]
